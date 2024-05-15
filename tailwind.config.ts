@@ -11,7 +11,7 @@ const config: Config = {
       fontFamily: {
         sans: ['var(--font-inter)'],
         mono: ['var(--font-roboto-mono)'],
-      },
+      },  
       gridTemplateColumns: {
         '13': 'repeat(13, minmax(0, 1fr))',
       },
